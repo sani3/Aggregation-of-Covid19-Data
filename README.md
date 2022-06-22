@@ -1,2 +1,2 @@
-# Covid19
-Read multiple files of covid19 data from CSSE Repository
+# Covid-19
+This project demonstrates the aggregation of covid-19 data at the CSSE Repository
